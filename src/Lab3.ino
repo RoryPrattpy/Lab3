@@ -21,6 +21,7 @@ void loop() {
   g_change(true);
   b_change(false);
   r_change(true);
+  g_change(false);
 }
 
 void update() {
